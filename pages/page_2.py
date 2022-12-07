@@ -1,6 +1,5 @@
-import imp
 import streamlit as st
-import pandas as pd 
+import pandas as pd
 
 
 st.markdown("# Page 2 ❄️")
